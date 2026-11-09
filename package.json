@@ -140,7 +140,7 @@
     "eslint-plugin-react-hooks": "^7.1.1",
     "eslint-plugin-testing-library": "^7.16.2",
     "immer": "^11.1.16",
-    "jsdom": "^30.0.1",
+    "jsdom": "^31.0.0",
     "json": "^11.0.0",
     "prettier": "^3.9.6",
     "react": "^19.2.8",
